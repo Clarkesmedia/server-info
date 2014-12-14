@@ -1,0 +1,10 @@
+{
+    "name": "server-info",
+    "version": "0.1.0",
+    "description": "get basic server info",
+    "main": "server.js",
+    "dependencies": {
+        "nsutil": "^0.1.4",
+        "shelljs": "^0.3.0"
+    }
+}
